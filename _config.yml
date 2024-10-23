@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            MY BLOG
 tagline:          ''
 description:      ''
-url:              https://buttimem.github.io
+url:              buttimem.github.io
 baseurl:          '/Blog-Assignment/'
 author: Mia Buttimer
 email: buttimem@myumanitoba.ca
